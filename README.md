@@ -17,7 +17,7 @@
    ### Analyzing sales data is crucial for any business. This project uses Google Sheets' powerful QUERY function to extract insights from sales records, helping the stationery company make data-driven decisions.
 ---
 ## Set Up
-1) Access the Data: The dataset is available at the following link: https://docs.google.com/spreadsheets/d/1o5Q6FwJdYmyYnaeECoCrS0VZAbpYjkwSfv2jiWAjcZc/edit?gid=0#gid=0. Make a copy of the sheet to your Google Drive.
+1) Access the Data: The dataset is available at the following link: [downlad here](https://docs.google.com/spreadsheets/d/1o5Q6FwJdYmyYnaeECoCrS0VZAbpYjkwSfv2jiWAjcZc/edit?gid=0#gid=0). Make a copy of the sheet to your Google Drive.
 
 2) Review the Data: Familiarize yourself with the columns:
 - Region: The geographical area of the sale.

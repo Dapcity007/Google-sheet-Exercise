@@ -84,7 +84,7 @@
   =QUERY(A:H, "SELECT E, F, H WHERE (E = 'Aug' OR E = 'Sep') AND F = 2014", 1)
 - To show sales of item "Pen" and "Binder" in 2015:
   
- =QUERY( A:H, "SELECT C ,H, F WHERE (C= 'Pen' or C= 'Binder') AND  F= 2015",1)
+  =QUERY( A:H, "SELECT C ,H, F WHERE (C= 'Pen' or C= 'Binder') AND  F= 2015",1)
 - To show sales for salesrep Richard in 2014:
 
   =QUERY(A:H,"SELECT B,F,H WHERE (B= 'Richard') AND F=2014 ORDER BY H DESC ")
